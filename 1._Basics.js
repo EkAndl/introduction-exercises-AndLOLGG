@@ -10,6 +10,9 @@ const lastName = "Jensen";
 // show in the console
 // My first name is Anders and my last name is Latif
 
+const selfIntroduction = `My first name is ${firstName} and my last name is ${lastName}`;
+
+console.log(selfIntroduction);
 console.log("My name is " + firstName + " " + lastName + ", so my first name is " + firstName + " and my last name is " + lastName + ".");
 
 // --------------------------------------
